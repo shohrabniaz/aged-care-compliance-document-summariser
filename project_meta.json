@@ -1,10 +1,17 @@
 {
-  "seq": 52,
   "title": "Aged Care Compliance Document Summariser",
+  "old_slug": "aged-care-compliance-document-summariser",
   "slug": "aged-care-compliance-document-summariser",
   "folder": "Aged_Care_Compliance_Document_Summariser",
   "kind": "general",
-  "body_words": 240,
+  "body_words": 303,
+  "source": "MICT Academic",
   "project_id": "Academic Project 13",
-  "source": "MICT Academic"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Showcase-ready design pack with labelled synthetic baseline"
+    ]
+  }
 }
