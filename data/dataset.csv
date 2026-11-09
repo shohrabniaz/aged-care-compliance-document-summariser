@@ -1,0 +1,9 @@
+id,text,label
+1,Urgent aged-care-compliance-document-summariser alert require immediate action,risk
+2,Weekly aged-care-compliance-document-summariser status looks normal,benign
+3,Suspicious aged-care-compliance-document-summariser anomaly detected please verify,risk
+4,Routine aged-care-compliance-document-summariser maintenance completed,benign
+5,Fraud pattern in aged-care-compliance-document-summariser submissions,risk
+6,Training notes for aged-care-compliance-document-summariser operators,benign
+7,Phishing attempt referencing aged-care-compliance-document-summariser,risk
+8,All clear report for aged-care-compliance-document-summariser queue,benign
